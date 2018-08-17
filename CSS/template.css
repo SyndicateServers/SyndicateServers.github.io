@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Hanalei+Fill');
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+@import url('https://fonts.googleapis.com/css?family=Stalinist+One');
 body {
-	background-image: url("https://www.shutterstock.com/image-vector/3d-isometric-background-cube-landscape-hills-1069121108?src=OfFERp0IJvOPCvzcvHT_GA-1-0");
+	background-image: url("https://vignette.wikia.nocookie.net/wikicraftminecraft/images/5/50/Wiki-background/revision/latest?cb=20141003183059");
 	background-size: cover;
-	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Stalinist One', cursive;
 	text-align: center;
 	color: white;
 }
