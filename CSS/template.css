@@ -14,7 +14,7 @@ h1 {
 	font-family: 'Stalinist One', cursive;
 	font-size: 300%;
 	text-align: center;
-	background: rgba(140, 140, 140, 0.7);
+	background: DarkSlateGray;
 border-radius: 17px;
 }
 h3 {
@@ -22,7 +22,7 @@ h3 {
 	font-family: 'Luckiest Guy', cursive;
 	letter-spacing:2px;
 	font-size: 150%;	
-background: rgba(140, 140, 140, 0.7);
+background: DarkSlateGray;
 border-radius: 17px;
 }
 p {
@@ -102,7 +102,7 @@ input:checked + .slider:before {
 	cursor: grab;
 }
 .topnav {
-    background-color: RosyBrown;
+    background-color: DarkSlateGray;
     overflow: hidden;
 }
 .topnav a {
