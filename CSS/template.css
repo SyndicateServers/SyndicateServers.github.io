@@ -102,7 +102,7 @@ input:checked + .slider:before {
 	cursor: grab;
 }
 .topnav {
-    background-color: #333;
+    background-color: RosyBrown;
     overflow: hidden;
 }
 .topnav a {
