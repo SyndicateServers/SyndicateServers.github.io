@@ -9,6 +9,12 @@ body {
 	font-family: 'Stalinist One', cursive;
 	text-align: center;
 	color: paleGreen;
+	overflow-x:hidden;
+
+}
+html, body {
+		height:100%;
+width:100%;
 }
 h1 {
 	font-family: 'Stalinist One', cursive;
@@ -104,6 +110,8 @@ input:checked + .slider:before {
 .topnav {
     background-color: DarkSlateGray;
     overflow: hidden;
+border: 0; top:0; left:0; right:0; bottom:0; width:95%; margin: auto;
+	
 }
 .topnav a {
     float: left;
@@ -112,6 +120,8 @@ input:checked + .slider:before {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+	
+
 }
 .topnav a:hover {
     background-color: #ddd;

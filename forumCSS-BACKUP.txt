@@ -1,0 +1,12 @@
+body{background-image: url("https://www.planwallpaper.com/static/images/Pattern-Blue-Squares-background-patterns-pattern-wallpapers-1920x1080.jpg");
+
+background-color:aqua;
+
+}
+
+
+#nabble {
+background-color:gray;
+border-radius:5px;
+
+}
