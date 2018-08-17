@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 @import url('https://fonts.googleapis.com/css?family=Stalinist+One');
 body {
-	background-image: url(https://images-ext-1.discordapp.net/external/iWqCh7fvOXDAGZhh-BZBVRmRz_VJhiXP3blM98_ykGM/https/i.imgur.com/ApDmYqT.jpg?width=809&height=455");
+	background-image: url("../img/background.jpg");
 	background-size: cover;
 	font-family: 'Stalinist One', cursive;
 	text-align: center;
