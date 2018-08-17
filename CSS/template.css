@@ -107,6 +107,11 @@ input:checked + .slider:before {
 	opacity: .4;
 	cursor: grab;
 }
+#donate-button {
+	
+
+	
+}
 .topnav {
     background-color: DarkSlateGray;
     overflow: hidden;
