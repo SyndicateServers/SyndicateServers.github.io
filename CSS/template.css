@@ -20,7 +20,7 @@ h1 {
 	font-family: 'Stalinist One', cursive;
 	font-size: 300%;
 	text-align: center;
-	background: DarkSlateGray;
+background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/71/51/5457b8020a73f65.jpg");
 border-radius: 17px;
 }
 h3 {
@@ -28,7 +28,7 @@ h3 {
 	font-family: 'Luckiest Guy', cursive;
 	letter-spacing:2px;
 	font-size: 150%;	
-background: DarkSlateGray;
+background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/71/51/5457b8020a73f65.jpg");
 border-radius: 17px;
 }
 p {
@@ -53,15 +53,28 @@ p {
 	border-color: white;
 	color: white;
 	font-size: 125%;  
-
 	background-color: transparent;
 	position: default;
 }
 .next1-button:hover {
 	
-	cursor:url('../img/cursor_PNG49.png'), auto;
+	cursor: grab;
 	
 	
+}
+#discLogo {
+	vertical-align: middle;
+	
+}
+#topInvLink {
+	
+	vertical-align: top;
+	text-decoration: none;
+	background-color:transparent;
+}
+
+.next1-button:active {
+	cursor:grabbing;
 }
 .switch {
   position: relative;
@@ -129,7 +142,7 @@ input:checked + .slider:before {
 	
 }
 .topnav {
-    background-color: DarkSlateGray;
+background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/71/51/5457b8020a73f65.jpg");
     overflow: hidden;
 border: 0; top:0; left:0; right:0; bottom:0; width:95%; margin: auto;
 	
