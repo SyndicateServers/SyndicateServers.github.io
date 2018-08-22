@@ -47,6 +47,22 @@ p {
 	background-color: transparent;
 	position: default;
 }
+.next1-button {
+	font-family: 'Gloria Hallelujah', cursive;
+	border-radius: 4px;
+	border-color: white;
+	color: white;
+	font-size: 125%;  
+
+	background-color: transparent;
+	position: default;
+}
+.next1-button:hover {
+	
+	cursor:url('../img/cursor_PNG49.png'), auto;
+	
+	
+}
 .switch {
   position: relative;
   display: inline-block;
