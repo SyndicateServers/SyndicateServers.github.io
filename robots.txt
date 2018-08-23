@@ -1,1 +1,1 @@
-Sitemap httpexample.comsitemap_location.xml
+Sitemap sitemap.xml
